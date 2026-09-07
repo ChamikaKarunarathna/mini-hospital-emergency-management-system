@@ -3,7 +3,7 @@
 ## Task Overview
 This project is an implementation of a Mini Hospital Emergency Management System using custom data structures in Java. It simulates the management of patients arriving at a hospital, including patient registration, emergency treatment requests, treatment completion, and patient visit history. 
 
-This project was developed for the **CIT300 - Data Structures and Algorithms** Mid Assignment.
+This project was developed as part of the **CIT300 - Data Structures and Algorithms** for the **Bachelor of Applied IT** program at **SLTC University**.
 
 ## Data Structures Implemented
 
@@ -50,12 +50,8 @@ src/
    ```bash
    javac Main.java models/*.java datastructures/*.java
    ```
-   *(Note: If `javac` is not in your system's PATH, you can use the absolute path to your JDK `bin` folder, e.g., `"C:\Program Files\Java\jdk-26.0.2.1\bin\javac.exe" Main.java models/*.java datastructures/*.java`)*
 
 3. Run the application:
    ```bash
    java Main
    ```
-
-## Demonstration
-A demonstration video of this system running, along with an explanation of the underlying data structure implementations, is provided alongside this repository as part of the assignment submission.
